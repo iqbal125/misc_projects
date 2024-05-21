@@ -1,0 +1,58 @@
+.item-list {
+  list-style-type: none;
+  padding: 0;
+  min-width: 500px;
+}
+
+.item {
+  padding: 10px;
+}
+
+.item-content-todos {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.item-header {
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+}
+
+.item-subtext {
+  margin: 0;
+  font-size: 14px;
+  color: #666;
+}
+
+.chevron {
+  margin-right: 28px;
+  width: 12px;
+  height: 12px;
+  cursor: pointer;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #ccc;
+  margin: 20px 0;
+  width: 500px;
+}
+
+.header {
+  text-align: left;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 36px;
+}
+
+list_container {
+  width: 500px;
+}

@@ -1,0 +1,32 @@
+.tasks-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.task-item {
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+}
+
+.item-content {
+  display: flex;
+  align-items: center;
+}
+
+.lock-header {
+  margin: 0;
+  font-size: 18px;
+  color: grey;
+}
+
+.completed-task {
+  text-decoration: line-through;
+}
+
+.checkbox {
+  margin-right: 28px;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
