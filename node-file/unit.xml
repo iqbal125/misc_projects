@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="10.090" tests="5" failures="5">
+  <testsuite name="Root Suite" timestamp="2024-06-15T19:24:02" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="fs_intermediate" timestamp="2024-06-15T19:24:02" tests="5" file="C:\Users\iqbal\Desktop\Code\test\new Test\205ba12a-7be3-4231-9e6c-577b2e0ae736\test\index.spec.js" time="10.086" failures="5">
+    <testcase name="fs_intermediate Should reject with a Invalid Path Error if the file/folder does not exist" time="2.005" classname="Should reject with a Invalid Path Error if the file/folder does not exist">
+      <failure message="Timeout of 2000ms exceeded. For async tests and hooks, ensure &quot;done()&quot; is called; if returning a Promise, ensure it resolves. (C:\Users\iqbal\Desktop\Code\test\new Test\205ba12a-7be3-4231-9e6c-577b2e0ae736\test\index.spec.js)" type="Error"><![CDATA[Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves. (C:\Users\iqbal\Desktop\Code\test\new Test\205ba12a-7be3-4231-9e6c-577b2e0ae736\test\index.spec.js)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)]]></failure>
+    </testcase>
+    <testcase name="fs_intermediate Should have return the listing data for a file" time="2.013" classname="Should have return the listing data for a file">
+      <failure message="Timeout of 2000ms exceeded. For async tests and hooks, ensure &quot;done()&quot; is called; if returning a Promise, ensure it resolves. (C:\Users\iqbal\Desktop\Code\test\new Test\205ba12a-7be3-4231-9e6c-577b2e0ae736\test\index.spec.js)" type="Error"><![CDATA[Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves. (C:\Users\iqbal\Desktop\Code\test\new Test\205ba12a-7be3-4231-9e6c-577b2e0ae736\test\index.spec.js)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)]]></failure>
+    </testcase>
+    <testcase name="fs_intermediate Should have return the details for a zipped file" time="2.004" classname="Should have return the details for a zipped file">
+      <failure message="Timeout of 2000ms exceeded. For async tests and hooks, ensure &quot;done()&quot; is called; if returning a Promise, ensure it resolves. (C:\Users\iqbal\Desktop\Code\test\new Test\205ba12a-7be3-4231-9e6c-577b2e0ae736\test\index.spec.js)" type="Error"><![CDATA[Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves. (C:\Users\iqbal\Desktop\Code\test\new Test\205ba12a-7be3-4231-9e6c-577b2e0ae736\test\index.spec.js)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)]]></failure>
+    </testcase>
+    <testcase name="fs_intermediate Should return the correct details for a directory" time="2.001" classname="Should return the correct details for a directory">
+      <failure message="Timeout of 2000ms exceeded. For async tests and hooks, ensure &quot;done()&quot; is called; if returning a Promise, ensure it resolves. (C:\Users\iqbal\Desktop\Code\test\new Test\205ba12a-7be3-4231-9e6c-577b2e0ae736\test\index.spec.js)" type="Error"><![CDATA[Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves. (C:\Users\iqbal\Desktop\Code\test\new Test\205ba12a-7be3-4231-9e6c-577b2e0ae736\test\index.spec.js)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)]]></failure>
+    </testcase>
+    <testcase name="fs_intermediate Should return the correct details for tmp generated directory" time="2.013" classname="Should return the correct details for tmp generated directory">
+      <failure message="Timeout of 2000ms exceeded. For async tests and hooks, ensure &quot;done()&quot; is called; if returning a Promise, ensure it resolves. (C:\Users\iqbal\Desktop\Code\test\new Test\205ba12a-7be3-4231-9e6c-577b2e0ae736\test\index.spec.js)" type="Error"><![CDATA[Error: Timeout of 2000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves. (C:\Users\iqbal\Desktop\Code\test\new Test\205ba12a-7be3-4231-9e6c-577b2e0ae736\test\index.spec.js)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>
